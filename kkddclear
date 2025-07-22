@@ -1,0 +1,18 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex a9a375e..2878edd 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,4 +1,6 @@[m
+ # Newproject[m
+ this project was created from local system.loj[m
+[32m+[m[32mcreated by poonam harode[m
+[32m+[m[32mgit sttus[m
+ [m
+ [m
+[1mdiff --git a/app.js b/app.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2c954b2[m
+[1m--- /dev/null[m
+[1m+++ b/app.js[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m//add new feature[m
